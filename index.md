@@ -18,6 +18,7 @@ Assistant Professor of Computer Science
 ## About My Project
 
 Title: Decomposition of Deep Neural Networks
+
 Description: Deep Neural Network (DNN) models are normally trained and used as monolithic computational entities. In this project, we will explore a novel way to decompose a DNN model.
 
 [My Final Report](files/finalreport.pdf)

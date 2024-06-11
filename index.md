@@ -17,8 +17,8 @@ Assistant Professor of Computer Science
 
 ## About My Project
 
-Title: Mutation-based Modular Decomposition of Deep Neural Networks
-Description: Deep Neural Network (DNN) models are normally trained and used as monolithic computational entities. Modularity in conventional programming brings about many benefits, including reusability and readability. In this project we use mutation analysis to decompose a DNN model into modules.
+Title: Decomposition of Deep Neural Networks
+Description: Deep Neural Network (DNN) models are normally trained and used as monolithic computational entities. In this project, we will explore a novel way to decompose a DNN model.
 
 [My Final Report](files/finalreport.pdf)
 

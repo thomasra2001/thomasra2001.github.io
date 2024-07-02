@@ -12,8 +12,7 @@ My name is Tra Reynolds. I am a Senior Computer Science and Applied Mathematics 
 
 ## About My Mentor
 
-Ali Ghanbari, Ph.D.
-Assistant Professor of Computer Science
+Dr. Ali Ghanbari. Assistant Professor of Computer Science at the Department of Computer Science and Software Engineering at Auburn University. Link to his homepage: https://ali-ghanbari.github.io/
 
 ## About My Project
 

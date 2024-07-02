@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+My name is Tra Reynolds. I am a Computer Science and Applied Mathematics Double Major at Auburn University.
 
 ## About My Mentor
 

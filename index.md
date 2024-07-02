@@ -8,7 +8,7 @@ title: Summer 2024 DREU Project Site
 
 ## About Me
 
-My name is Tra Reynolds. I am a Senior Computer Science and Applied Mathematics Double Major at Auburn University. I hope to graduate in May 2025.
+My name is Tra Reynolds. I am a Senior Computer Science and Applied Mathematics Double Major at Auburn University. I hope to graduate in May 2025. My passion for research comes from my love of computers. One of the first words I learned to read was "Disney.com", as my mom tells me, from sneaking onto the computer at 3 years old. I can be contacted at thomasra2001@gmail.com
 
 ## About My Mentor
 

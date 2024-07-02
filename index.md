@@ -17,9 +17,13 @@ I can be contacted at trr0026[at]auburn[dot]edu
 ## About My Mentor
 
 Dr. Ali Ghanbari
+
 Auburn University
+
 Assistant Professor of Computer Science at the Department of Computer Science and Software Engineering
+
 Area of Expertise: Software Testing, Analysis, Repair and Verification
+
 
 Link to his homepage: [https://ali-ghanbari.github.io/](https://ali-ghanbari.github.io/)
 
